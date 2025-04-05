@@ -8,7 +8,7 @@ A Streamlit app to blend a content image with an artistic style using TensorFlow
 - Download result as PNG
 
 ## Demo
-Live app: [Insert URL after deployment](#)
+[Neural Style Transfer App Live Demo](https://ai-ia2.streamlit.app/)
 
 ## Setup
 ### Clone
@@ -34,4 +34,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 (Opens on http://localhost:8501)
- 
+
